@@ -1,0 +1,6 @@
+{
+  "/api": {
+    "target": "http://node-api:3080",
+    "secure": false
+  }
+}
